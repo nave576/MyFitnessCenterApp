@@ -11,4 +11,5 @@ public class GoalsSettings extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_goals_settings);
     }
+    public void func(){}
 }
