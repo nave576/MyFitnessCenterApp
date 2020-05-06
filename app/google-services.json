@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749408543174",
+    "firebase_url": "https://myfitnesscenter-da37c.firebaseio.com",
+    "project_id": "myfitnesscenter-da37c",
+    "storage_bucket": "myfitnesscenter-da37c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749408543174:android:449627aa9dac69b44952c7",
+        "android_client_info": {
+          "package_name": "com.example.myfitnesscenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749408543174-i15d5a5slb2ubobujbkrf4skli1n5j0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMfB4-5i6_JUlSFqEH1idsxgsyCZh5LGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749408543174-i15d5a5slb2ubobujbkrf4skli1n5j0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
